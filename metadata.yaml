@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '39871'
     url: http://www.gutenberg.org/2009/agents/39871
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45313#A-System-of-Practical-Medicine-By-American-Authors-Vol.-IIGeneral-Diseases--Continued--and-Di_
 gutenberg_issued: '2014-04-03'
 gutenberg_type: Text
 identifiers:
